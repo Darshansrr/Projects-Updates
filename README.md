@@ -1,4 +1,4 @@
-# Projects-Updates
+# PROJECTS-UPDATES
 
-# TOTAL 4 PROJECTS 
+# Total 4 Projects
 
