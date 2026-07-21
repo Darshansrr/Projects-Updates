@@ -7,3 +7,5 @@
 2.Production-Ready E-Commerce Backend API.
 
 3.FaceLint: Real-Time Face Detection System.
+
+4.Verbose Vista: Distributed Search Engine.
