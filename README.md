@@ -7,6 +7,9 @@
 ______________________________________________
 # 2.Production-Ready E-Commerce Backend API.
 •A scalable FastAPI e-commerce backend featuring JWT authentication, PostgreSQL, Docker, and production-ready REST APIs.
+
+•Applied object-oriented design principles to architect and build 15+ RESTful API endpoints
+(amthentication, catalog, cart, order mamagement) using Fast API and PostgreSQL, povering a Flutter mobile client.
 ______________________________________________
 # 3.FaceLint: Real-Time Face Detection System.
 •A real-time, on-device face detection application powered by MediaPipe and OpenCV with a privacy-first approach.
