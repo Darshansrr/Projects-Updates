@@ -18,3 +18,7 @@ ______________________________________________
 ______________________________________________
 # 4.Verbose Vista: Distributed Search Engine.
 •A serverless distributed search engine built on Google Cloud with MapReduce-based indexing and fast document retrieval.
+
+•Engineered a serverless, distributed search engine on Google Cloud Platform using the MapReduce framework, enabling scalable, concurrent document indexing without dedicated infrastructure.
+
+
