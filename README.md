@@ -7,6 +7,7 @@
 
 •Built and deployed a production-style backend combining PostgreSQL, Grog Llama 3.3-70B, and Streamlit, following
 iterative requirement-gathering and feedback-driven development cycles
+
 ______________________________________________
 # 2.Production-Ready E-Commerce Backend API.
 •A scalable FastAPI e-commerce backend featuring JWT authentication, PostgreSQL, Docker, and production-ready REST APIs.
