@@ -27,3 +27,6 @@ ______________________________________________
 •Engineered a serverless, distributed search engine on Google Cloud Platform using the MapReduce framework, enabling scalable, concurrent document indexing without dedicated infrastructure.
 
 
+
+
+
