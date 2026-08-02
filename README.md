@@ -21,6 +21,9 @@ ______________________________________________
 •A real-time, on-device face detection application powered by MediaPipe and OpenCV with a privacy-first approach.
 
 •Built a privacy-focused, on-device macOS application (Python, MediaPipe, OpenCV) with a real-time memu bar interface for face-touch detection. 
+
+•Optimized detection algorithm performance through iterative testing, reducing CPU usage while improving real-time accuracy
+and system responsiveness.
 ______________________________________________
 # 4.Verbose Vista: Distributed Search Engine.
 •A serverless distributed search engine built on Google Cloud with MapReduce-based indexing and fast document retrieval.
