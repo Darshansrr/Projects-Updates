@@ -1,5 +1,7 @@
 # PROJECTS-UPDATES
 
+
+
 # 1.Multi-Agent-AI-Travel-Planning-Booking-Platform-with-RAG-and-Budget-Optimization.
 •An AI-powered travel planner that uses multi-agent workflows, RAG, and LLMs to create personalized travel itineraries.
 
@@ -8,6 +10,8 @@
 •Built and deployed a production-style backend combining PostgreSQL, Grog Llama 3.3-70B, and Streamlit, following
 iterative requirement-gathering and feedback-driven development cycles
 
+
+In June July
 ______________________________________________
 # 2.Production-Ready E-Commerce Backend API.
 •A scalable FastAPI e-commerce backend featuring JWT authentication, PostgreSQL, Docker, and production-ready REST APIs.
@@ -29,6 +33,8 @@ ______________________________________________
 •A serverless distributed search engine built on Google Cloud with MapReduce-based indexing and fast document retrieval.
 
 •Engineered a serverless, distributed search engine on Google Cloud Platform using the MapReduce framework, enabling scalable, concurrent document indexing without dedicated infrastructure.
+
+
 
 
 
