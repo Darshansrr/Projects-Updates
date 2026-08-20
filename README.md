@@ -1,7 +1,6 @@
 # PROJECTS-UPDATES
 
 
-
 # 1.Multi-Agent-AI-Travel-Planning-Booking-Platform-with-RAG-and-Budget-Optimization.
 •An AI-powered travel planner that uses multi-agent workflows, RAG, and LLMs to create personalized travel itineraries.
 
@@ -33,6 +32,10 @@ ______________________________________________
 •A serverless distributed search engine built on Google Cloud with MapReduce-based indexing and fast document retrieval.
 
 •Engineered a serverless, distributed search engine on Google Cloud Platform using the MapReduce framework, enabling scalable, concurrent document indexing without dedicated infrastructure.
+
+
+
+# BASIC PROJECTS 
 
 
 
