@@ -13,7 +13,9 @@ elif a==2:
 elif a==3:
     print(First_num*Second_num)
 elif a==4:
-    print(First_num/Second_num)
+    if Second_num !=0:
+        print(First_num/Second_num)
+    else:
+        print("Division by zero is not allowed.")
 else:
     print("you enter the wrong order!.. Please enter the correct number order mention above")
-
